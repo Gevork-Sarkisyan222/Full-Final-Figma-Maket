@@ -1,0 +1,585 @@
+body{
+    background-color: #181818;
+}
+
+
+
+
+.leftbg>img{
+    position: absolute;
+}
+
+.ntimg>img{
+    position: absolute;
+}
+
+.iconman>img{
+    position: absolute;
+    left: 70px;
+    top: 102px;
+}
+
+.nametl{
+    position: absolute;
+    color: #FFFFFF;
+    left: 73px;
+    top: 210px;
+    font-size: 20px;
+    font-family: 'Roboto';
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.txfr{
+    position: absolute;
+    left: 41px;
+    top: 239px;
+    font-size: 17px;
+    font-family: 'Roboto';
+    color: #9c9999;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.socialssvg>img{
+    position: absolute;
+    left: 90px;
+    top: 289px;
+    cursor: pointer;
+}
+
+.btximg>img{
+    position: absolute;
+    top: 400px;
+    left: 20px;
+}
+
+.line1>img{
+    position: absolute;
+    left: 28px;
+    top: 380px;
+}
+
+.line2>img{
+    position: absolute;
+    left: 21px;
+    top: 530px;
+}
+
+.redbtnimg>img{
+    position:absolute;
+    top: 570px;
+}
+
+.redbtnimg>p{
+    position: absolute;
+    top: 570px;
+    left: 37px;
+    color: #FFFFFF;
+    font-size: 13px;
+    font-family: Arial, Helvetica, sans-serif;
+    cursor: pointer;
+}
+
+
+.bluebtnimg>img{
+    position: absolute;
+    top: 571px;
+    left: 160px;
+    cursor: pointer;
+}
+
+.bluebtnimg>p{
+    position: absolute;
+    top: 570px;
+    left: 185px;
+    color: #FFFFFF;
+    font-size: 13px;
+    font-family: Arial, Helvetica, sans-serif;
+    cursor: pointer;
+}
+
+
+.header>img{
+    position: absolute;
+    left: 286px;
+}
+
+.gl>p{
+    position: absolute;
+    left: 333px;
+    color: #FFFFFF;
+    font-size: 14px;
+    top: 3px;
+    font-family:Arial, Helvetica, sans-serif
+
+}
+
+.gl>p:hover{
+    color: #3137C9;
+    cursor: pointer;
+}
+
+.st>p{
+    position: absolute;
+    left: 454px;
+    color: #FFFFFF;
+    top: 3px;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 14px;
+}
+.st>p:hover{
+    color: #3137C9;
+    cursor: pointer;
+}
+
+.itic>img{
+    position: absolute;
+    left: 530px;
+    top: 20px;
+}
+
+.oboic>p{
+    position: absolute;
+    left: 580px;
+    top: 3px;
+    color: #FFFFFF;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 14px;
+}
+.oboic>p:hover{
+    color: #3137C9;
+    cursor: pointer;
+}
+
+.rek>p{
+    position: absolute;
+    color: #FFFFFF;
+    left: 690px;
+    top: 3px;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 14px;
+}
+.rek>p:hover{
+    color: #3137C9;
+    cursor: pointer;
+}
+
+.prof>p{
+    position: absolute;
+    color: #FFFFFF;
+    left: 900px;
+    top: 3px;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 14px;
+}
+
+.prof>p:hover{
+    color: #3137C9;
+    cursor: pointer;
+}
+
+.bgfather>img {
+    position: absolute;
+    left: 360px;
+    top: 90px;
+}
+
+.bc>p{
+    position: absolute;
+    color: grey;
+    left: 407px;
+    top: 100px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 13px;
+}
+.bc>p:hover{
+    color: #ffffff;
+    cursor: pointer;
+}
+
+.pod>p{
+    position: absolute;
+    color: grey;
+    left: 860px;
+    top: 100px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 13px;
+}
+.pod>p:hover{
+    color: #ffffff;
+    cursor: pointer;
+}
+
+.sharesvg>img{
+    position: absolute;
+    left: 950px;
+    top: 109px;
+}
+
+.ttg>h1{
+    position: absolute;
+    color: #FFFFFF;
+    left: 410px;
+    top: 130px;
+    font-size: 21px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.txdata>p{
+    position: absolute;
+    color: grey;
+    left: 410px;
+    top: 159px;
+    font-size: 14px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.ketsvg>img{
+    position: absolute;
+    left: 499px;
+    top: 178px;
+}
+
+.makesaittx>p{
+    position: absolute;
+    color: grey;
+    left: 520px;
+    top: 160px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+}
+
+.loremtx>img{
+    position: absolute;
+    left: 410px;
+    top: 213px;
+}
+
+.kodimg>img{
+    position: absolute;
+    left: 410px;
+    top: 490px;
+}
+
+.lrtx>p{
+    position: absolute;
+    left: 410px;
+    top: 490px;
+    width: 550px;
+    height: 146px;
+    top: 750px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #d4d4d4;
+    font-size: 14px;
+}
+
+
+.line4>img{
+    position: absolute;
+    left: 410px;
+    top: 960px;
+
+}
+
+.readtit>p{
+    position: absolute;
+    left: 410px;
+    top: 490px;
+    top: 980px;
+    font-family: Arial, Helvetica, sans-serif;
+    color:#FFFFFF;
+    font-size: 17px;
+}
+
+.punkvv>input{
+    position: absolute;
+    left: 1009px;
+    top: 9px;
+    font-size: 20px;
+    width: 280px;
+    height: 36px;
+    border: none;
+    background-color: #222222;
+    outline: none;
+    size: 10px;
+
+}
+
+
+.punkvv>input::placeholder{
+    position: absolute;
+    font-size: 15px;
+    left: 19px;
+    top:9px;
+    color: #FFFFFF66;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.story>img{
+    position:absolute;
+    right: 300px;
+    top: 100px;
+    left: 354px;
+    
+}
+
+.story>img:hover{
+    padding-top: 20px;
+    cursor: pointer;
+}
+
+.imgholder{
+    position: absolute;
+    right: 355px;
+    top: 340px;
+}
+
+.text-holder>input{
+    position: absolute;
+    left: 390px;
+    top: 377px;
+    font-size: 20px;
+    color: #D2D2D2;
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    border: none;
+    outline: none;
+    background: none;
+}
+
+.text-holder>input::placeholder{
+    color:#D2D2D2;
+}
+
+.photo-btn{
+    position: absolute;
+    left: 845px;
+    top: 365px;
+    cursor: pointer;
+}
+
+.send-btn{
+    position: absolute;
+    left: 904px;
+    top: 365px;
+    cursor: pointer;
+}
+
+.bgdown{
+    position: absolute;
+    left: 345px;
+    top: 454px;
+}
+
+.downtxm{
+    position: absolute;
+    left: 390px;
+    top: 497px;
+}
+
+.data-text{
+    position: absolute;
+    left: 390px;
+    top: 578px;
+    color: #828282;
+    font-size: 12px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.bg-2img{
+    position: absolute;
+    left: 370px;
+    top: 660px;
+}
+
+.down-bg2{
+    position: absolute;
+    left: 345px;
+    top: 660px;
+}
+
+.text-title{
+    position: absolute;
+    left: 397px;
+    top: 920px;
+    color: #FFFFFF;
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.down2-text{
+    position: absolute;
+    left: 397px;
+    top: 977px;
+}
+
+.data2{
+    position: absolute;
+    left: 397px;
+    top: 1063px;
+    color: #828282;
+    font-size: 13px;
+}
+
+.little-image{
+    position: absolute;
+    left: 472px;
+    top: 1081px;
+}
+
+.make-saits{
+    position: absolute;
+    left: 495px;
+    top: 1063px;
+    color: #828282;
+    font-size: 14px;
+}
+
+.read-text{
+    position: absolute;
+    left: 902px;
+    top: 1063px;
+    color: #107EFF;
+    font-size: 14px;
+    cursor: pointer;
+}
+
+.down3{
+    position: absolute;
+    left: 345px;
+    top: 1150px;
+}
+
+.nootbook-image-bg{
+    position: absolute;
+    left: 393px;
+    top: 1186px;
+}
+
+.blue-svg{
+    position: absolute;
+    left: 630px;
+    top: 1290px;
+    cursor: pointer;
+}
+
+.buy-nootbook-title{
+    position: absolute;
+    left: 395px;
+    top: 1469px;
+    color: #FFFFFF;
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+.data-not{
+    position: absolute;
+    left: 395px;
+    top: 1515px;
+    color: #828282;
+    font-size: 13px;
+    
+}
+
+.little-image2{
+    position: absolute;
+    left: 472px;
+    top: 1533px;
+}
+
+.prod-video-text{
+    position: absolute;
+    left: 500px;
+    top: 1515px;
+    font-size: 13px;
+    color: #828282;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.let-comment-text{
+    position: absolute;
+    left: 810px;
+    top: 1515px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 13px;
+    color: #107EFF;
+    cursor: pointer;
+}
+
+.last-bg{
+    position: absolute;
+    left: 345px;
+    top: 1600px;
+}
+
+.fr-bg{
+    position: absolute;
+    left: 370px;
+    top: 1600px;
+}
+
+.tit-fr{
+    position: absolute;
+    left: 392px;
+    top: 1895px;
+    color: #FFFFFF;
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.last-tx{
+    position: absolute;
+    left: 392px;
+    top: 1950px;
+}
+
+.last-data{
+    position: absolute;
+    left: 392px;
+    top: 2035px;
+    color: #828282;
+    font-size: 12px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.little-image3{
+    position: absolute;
+    left: 470px;
+    top: 2050px;
+}
+
+.make-sait3{
+    position: absolute;
+    left: 495px;
+    top: 2035px;
+    color: #828282;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+}
+
+.last-read-text{
+    position: absolute;
+    left: 890px;
+    top: 2035px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    color: #107EFF;
+    cursor: pointer;
+}
+
+.num-last{
+    position: absolute;
+    left: 530px;
+    top: 2200px;
+    padding-bottom: 120px;
+    cursor: pointer;
+}
+
+
+.link-page1{
+    position: absolute;
+    left:1100px;
+    top: 100px;
+    color: black;
+}
+
